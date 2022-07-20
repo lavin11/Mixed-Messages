@@ -1,0 +1,7 @@
+1. Creatte a function to get random number.
+
+2. create an object containing random quotes
+
+3. create a switch so that we can which object to look for.
+
+4. Function to to format 
